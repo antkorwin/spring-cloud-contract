@@ -1,11 +1,38 @@
-== Links
+== Additional resources
+
+=== Repositories
 
 The following links may be helpful when working with Spring Cloud Contract:
 
 * https://github.com/spring-cloud/spring-cloud-contract/[Spring Cloud Contract Github
 Repository]
-* https://github.com/spring-cloud-samples/spring-cloud-contract-samples/[Spring Cloud
-Contract Samples]
+
+* https://github.com/spring-cloud-samples/spring-cloud-contract-samples/[Spring Cloud Contract Samples]
+
+=== Where you can ask your questions
+
 * https://gitter.im/spring-cloud/spring-cloud-contract[Spring Cloud Contract Gitter]
-* https://www.youtube.com/watch?v=sAAklvxmPmk[Spring Cloud Contract WJUG Presentation by
-Marcin Grzejszczak]
+
+* https://stackoverflow.com/questions/tagged/spring-cloud-contract[StackOverflow]
+
+=== Spring Cloud Contract video
+
+You can check out the video from the Warsaw JUG about Spring Cloud Contract:
+
+video::sAAklvxmPmk[youtube,start=538,width=640,height=480]
+
+Devoxx Poland: Consumer Driven Contracts and Your Microservice Architecture by Marcin Grzejszczak and Josh Long
+
+video::MDydAqL4mYE[youtube,width=640,height=480]
+
+Spring One by Pivotal: Eddu Melendez and Olga Maciaszek-Sharma
+
+video::QHlhYQQa7bg[youtube,width=640,height=480]
+
+=== Readings
+
+- http://www.slideshare.net/MarcinGrzejszczak/stick-to-the-rules-consumer-driven-contracts-201507-confitura[Slides from Marcin Grzejszczak's talk about Accurest]
+- http://toomuchcoding.com/blog/categories/accurest/[Accurest related articles from Marcin Grzejszczak's blog]
+- http://toomuchcoding.com/blog/categories/spring-cloud-contract/[Spring Cloud Contract related articles from Marcin Grzejszczak's blog]
+- http://groovy-lang.org/json.html[Groovy docs regarding JSON]
+- http://antkorwin.com/cloud/spring_cloud_contract_junit5.html[How to use Spring Cloud Contract with JUnit5, TeamCity and Artifactory from Anatoliy Korovin's blog]
